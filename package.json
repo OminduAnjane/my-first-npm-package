@@ -14,7 +14,7 @@
 
   },
 
-  "author": "OminduAnjana",
+  "author": "OminduBro",
 
   "keywords": ["telegram", "direct link", "image uploader", "image to url"],
 
@@ -28,19 +28,19 @@
 
   },
 
-  "homepage": "https://github.com/OminduBro/telegram-image-to-url#readme",
+  "homepage": "https://github.com/OminduBro/telegram-img-url-convert-Api#readme",
 
   "repository": {
 
     "type": "git",
 
-    "url": "git+https://github.com/OminduBro/telegram-image-to-url.git"
+    "url": "git+https://github.com/OminduBro/telegram-img-url-convert-Api.git"
 
   },
 
   "bugs": {
 
-    "url": "https://github.com/OminduBro/telegram-image-to-url/issues"
+    "url": "https://github.com/OminduBro/telegram-img-url-convert-Api/issues"
 
   }
 
