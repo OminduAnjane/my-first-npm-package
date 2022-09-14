@@ -4,7 +4,7 @@
 
 ```sh
 
-npm i @omindubro/telegram-image-to-url
+npm i @omindubro/telegram-img-url-convert-Api
 
 ```
 
