@@ -18,7 +18,7 @@
 
   "keywords": ["telegram", "direct link", "image uploader", "image to url"],
 
-  "license": "MIT",
+  "license": "GNU GENERAL PUBLIC LICENSE",
 
   "dependencies": {
 
