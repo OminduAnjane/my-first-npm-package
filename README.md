@@ -14,7 +14,7 @@ npm i @omindubro/telegram-img-url-convert-Api
 
 ```ts
 
-let { img2url } = require('@omindubro/telegram-img-url-convert-Api')
+let { img2url } = require('telegram-img-url-convert-Api')
 
 const path = './omi.jpg'
 
